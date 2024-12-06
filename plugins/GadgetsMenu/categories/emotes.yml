@@ -183,7 +183,7 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: "&d\u2764  \u2764"
+      Text: '&d❤  ❤'
     Lore:
     - '&7Feeling good? Spread the'
     - '&7good vibes with the Heart'

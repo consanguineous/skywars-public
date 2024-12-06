@@ -25,15 +25,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
         - '  &7You found loot!'
         - '  &71x &a&lCommon {LOOT}'
         - ''
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
     Rare:
       Play-Sound:
         Enabled: true
@@ -41,15 +39,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
         - '  &7You found loot!'
         - '  &71x &9&lRare {LOOT}'
         - ''
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
     Epic:
       Play-Sound:
         Enabled: true
@@ -57,15 +53,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
         - '  &7You found loot!'
         - '  &71x &5&lEpic {LOOT}'
         - ''
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
     Legendary:
       Play-Sound:
         Enabled: true
@@ -73,15 +67,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
         - '  &7You found loot!'
         - '  &71x &6&lLegendary {LOOT}'
         - ''
-        - "\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\
-          \u2584\u2584\u2584\u2584\u2584\u2584"
+        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   Already-Had-Loot:
     Common:
       Give-Mystery-Dust:
@@ -171,23 +163,19 @@ Mystery-Boxes:
     Found-Mystery-Box:
       One-Star:
         Enabled: true
-        Message: "{PLAYER} &ffound a &e\u2730&7\u2730\u2730\u2730\u2730 &fMystery\
-          \ Box!"
+        Message: '{PLAYER} &ffound a &e✰&7✰✰✰✰ &fMystery Box!'
       Two-Star:
         Enabled: true
-        Message: "{PLAYER} &ffound a &e\u2730\u2730&7\u2730\u2730\u2730 &fMystery\
-          \ Box!"
+        Message: '{PLAYER} &ffound a &e✰✰&7✰✰✰ &fMystery Box!'
       Three-Star:
         Enabled: true
-        Message: "{PLAYER} &ffound a &e\u2730\u2730\u2730&7\u2730\u2730 &fMystery\
-          \ Box!"
+        Message: '{PLAYER} &ffound a &e✰✰✰&7✰✰ &fMystery Box!'
       Four-Star:
         Enabled: true
-        Message: "{PLAYER} &ffound a &e\u2730\u2730\u2730\u2730&7\u2730 &fMystery\
-          \ Box!"
+        Message: '{PLAYER} &ffound a &e✰✰✰✰&7✰ &fMystery Box!'
       Five-Star:
         Enabled: true
-        Message: "{PLAYER} &ffound a &e\u2730\u2730\u2730\u2730\u2730 &fMystery Box!"
+        Message: '{PLAYER} &ffound a &e✰✰✰✰✰ &fMystery Box!'
   Mystery-Boxes-Reward:
     Enabled: true
     Chance-To-Get-Mystery-Box: 60
@@ -202,11 +190,11 @@ Mystery-Boxes:
       Minutes: 60
       Seconds: 0
     Message:
-      One-Star: "&fYou found a &e\u2730&7\u2730\u2730\u2730\u2730 &fMystery Box!"
-      Two-Star: "&fYou found a &e\u2730\u2730&7\u2730\u2730\u2730 &fMystery Box!"
-      Three-Star: "&fYou found a &e\u2730\u2730\u2730&7\u2730\u2730 &fMystery Box!"
-      Four-Star: "&fYou found a &e\u2730\u2730\u2730\u2730&7\u2730 &fMystery Box!"
-      Five-Star: "&fYou found a &e\u2730\u2730\u2730\u2730\u2730 &fMystery Box!"
+      One-Star: '&fYou found a &e✰&7✰✰✰✰ &fMystery Box!'
+      Two-Star: '&fYou found a &e✰✰&7✰✰✰ &fMystery Box!'
+      Three-Star: '&fYou found a &e✰✰✰&7✰✰ &fMystery Box!'
+      Four-Star: '&fYou found a &e✰✰✰✰&7✰ &fMystery Box!'
+      Five-Star: '&fYou found a &e✰✰✰✰✰ &fMystery Box!'
     Allow-AFK: false
     Enabled-Worlds:
     - '*'
@@ -229,7 +217,7 @@ Mystery-Boxes:
           - '&5Epic {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
           - ''
-          - "&7Quality: &e\u2730&7\u2730\u2730\u2730\u2730"
+          - '&7Quality: &e✰&7✰✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
           - '&eClick to open!'
@@ -244,7 +232,7 @@ Mystery-Boxes:
           - '&5Epic {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
           - ''
-          - "&7Quality: &e\u2730\u2730&7\u2730\u2730\u2730"
+          - '&7Quality: &e✰✰&7✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
           - '&eClick to open!'
@@ -259,7 +247,7 @@ Mystery-Boxes:
           - '&5Epic {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
           - ''
-          - "&7Quality: &e\u2730\u2730\u2730&7\u2730\u2730"
+          - '&7Quality: &e✰✰✰&7✰✰'
           - '{EXPIRY_DATE}'
           - ''
           - '&eClick to open!'
@@ -274,7 +262,7 @@ Mystery-Boxes:
           - '&6Legendary {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
           - ''
-          - "&7Quality: &e\u2730\u2730\u2730\u2730&7\u2730"
+          - '&7Quality: &e✰✰✰✰&7✰'
           - '{EXPIRY_DATE}'
           - ''
           - '&eClick to open!'
@@ -289,7 +277,7 @@ Mystery-Boxes:
           - '&6Legendary {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
           - ''
-          - "&7Quality: &e\u2730\u2730\u2730\u2730\u2730"
+          - '&7Quality: &e✰✰✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
           - '&eClick to open!'
@@ -308,7 +296,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'''
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730&7\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰&7✰✰✰✰'
         - ''
         - '&7You received this gift from:'
         - '&7{SENDER}'
@@ -325,7 +313,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730&7\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰&7✰✰✰'
         - ''
         - '&7You received this gift from:'
         - '&7{SENDER}'
@@ -342,7 +330,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730&7\u2730\u2730"
+        - '&7Quality: &e✰✰✰&7✰✰'
         - ''
         - '&7You received this gift from:'
         - '&7{SENDER}'
@@ -359,7 +347,7 @@ Mystery-Boxes:
         - '&6Legendary {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730&7\u2730"
+        - '&7Quality: &e✰✰✰✰&7✰'
         - ''
         - '&7You received this gift from:'
         - '&7{SENDER}'
@@ -376,7 +364,7 @@ Mystery-Boxes:
         - '&6Legendary {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰✰✰✰'
         - ''
         - '&7You received this gift from:'
         - '&7{SENDER}'
@@ -397,7 +385,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730&7\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰&7✰✰✰✰'
         - '&bCrafted on {DATE}'
         - ''
         - '&eClick to open!'
@@ -415,7 +403,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730&7\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰&7✰✰✰'
         - '&bCrafted on {DATE}'
         - ''
         - '&eClick to open!'
@@ -433,7 +421,7 @@ Mystery-Boxes:
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730&7\u2730\u2730"
+        - '&7Quality: &e✰✰✰&7✰✰'
         - '&bCrafted on {DATE}'
         - ''
         - '&eClick to open!'
@@ -451,7 +439,7 @@ Mystery-Boxes:
         - '&6Legendary {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730&7\u2730"
+        - '&7Quality: &e✰✰✰✰&7✰'
         - '&bCrafted on {DATE}'
         - ''
         - '&eClick to open!'
@@ -469,7 +457,7 @@ Mystery-Boxes:
         - '&6Legendary {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰✰✰✰'
         - '&bCrafted on {DATE}'
         - ''
         - '&eClick to open!'
@@ -478,31 +466,31 @@ Mystery-Boxes:
       One-Star:
         Name: '&bMystery Box'
         Lore:
-        - "&7Rarity: &e\u2730&7\u2730\u2730\u2730\u2730"
+        - '&7Rarity: &e✰&7✰✰✰✰'
         - '&7You can find &bMystery Box &7by'
         - '&7playing on the server.'
       Two-Star:
         Name: '&bMystery Box'
         Lore:
-        - "&7Rarity: &e\u2730\u2730&7\u2730\u2730\u2730"
+        - '&7Rarity: &e✰✰&7✰✰✰'
         - '&7You can find &bMystery Box &7by'
         - '&7playing on the server.'
       Three-Star:
         Name: '&bMystery Box'
         Lore:
-        - "&7Rarity: &e\u2730\u2730\u2730&7\u2730\u2730"
+        - '&7Rarity: &e✰✰✰&7✰✰'
         - '&7You can find &bMystery Box &7by'
         - '&7playing on the server.'
       Four-Star:
         Name: '&bMystery Box'
         Lore:
-        - "&7Rarity: &e\u2730\u2730\u2730\u2730&7\u2730"
+        - '&7Rarity: &e✰✰✰✰&7✰'
         - '&7You can find &bMystery Box &7by'
         - '&7playing on the server.'
       Five-Star:
         Name: '&bMystery Box'
         Lore:
-        - "&7Rarity: &e\u2730\u2730\u2730\u2730\u2730"
+        - '&7Rarity: &e✰✰✰✰✰'
         - '&7You can find &bMystery Box &7by'
         - '&7playing on the server.'
     Found-Loot:

@@ -1,4 +1,4 @@
-Prefix: "&3GadgetsMenu &6\xbb &r"
+Prefix: '&3GadgetsMenu &6» &r'
 GUI-Menus:
   Main: Main
   Hats: Hats
@@ -133,7 +133,7 @@ GUI-Menus:
         - '&5Epic items&7: &b1'
         - '&6Legendary items&7: &b1'
         - ''
-        - "&7Quality: &e\u2730&7\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰&7✰✰✰✰'
       2-Star:
         Name: '&bMystery Box #2'
         Material: ENDER_CHEST
@@ -147,7 +147,7 @@ GUI-Menus:
         - '&5Epic items&7: &b1'
         - '&6Legendary items&7: &b1'
         - ''
-        - "&7Quality: &e\u2730\u2730&7\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰&7✰✰✰'
       3-Star:
         Name: '&bMystery Box #3'
         Material: ENDER_CHEST
@@ -161,7 +161,7 @@ GUI-Menus:
         - '&5Epic items&7: &b2'
         - '&6Legendary items&7: &b1'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730&7\u2730\u2730"
+        - '&7Quality: &e✰✰✰&7✰✰'
       4-Star:
         Name: '&bMystery Box #4'
         Material: ENDER_CHEST
@@ -175,7 +175,7 @@ GUI-Menus:
         - '&5Epic items&7: &b2'
         - '&6Legendary items&7: &b3'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730&7\u2730"
+        - '&7Quality: &e✰✰✰✰&7✰'
       5-Star:
         Name: '&bMystery Box #5'
         Material: ENDER_CHEST
@@ -189,7 +189,7 @@ GUI-Menus:
         - '&5Epic items&7: &b2'
         - '&6Legendary items&7: &b4'
         - ''
-        - "&7Quality: &e\u2730\u2730\u2730\u2730\u2730"
+        - '&7Quality: &e✰✰✰✰✰'
   Gift-Inventory-Menu:
     GUI-Name: Gift Inventory
     Items:

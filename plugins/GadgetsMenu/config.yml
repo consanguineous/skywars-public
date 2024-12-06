@@ -174,7 +174,7 @@ Item-Cost-Discount:
         Enough-Mystery-Dust:
         - ''
         - '&8&mRegular: {MYSTERY_DUST} Mystery Dust!'
-        - "&aVIP&7: &a{VIP_MYSTERY_DUST} &7Mystery Dust (&a20% &7OFF!) &e\u25c0"
+        - '&aVIP&7: &a{VIP_MYSTERY_DUST} &7Mystery Dust (&a20% &7OFF!) &e◀'
         - '&cMVP: {MVP_MYSTERY_DUST} Mystery Dust (40% OFF!)'
         - ''
         - '&7Your Cost: &a{VIP_MYSTERY_DUST} &7Mystery Dust'
@@ -182,7 +182,7 @@ Item-Cost-Discount:
         Not-Enough-Mystery-Dust:
         - ''
         - '&8&mRegular: {MYSTERY_DUST} Mystery Dust!'
-        - "&aVIP&7: &a{VIP_MYSTERY_DUST} &7Mystery Dust (&a20% &7OFF!) &e\u25c0"
+        - '&aVIP&7: &a{VIP_MYSTERY_DUST} &7Mystery Dust (&a20% &7OFF!) &e◀'
         - '&cMVP: {MVP_MYSTERY_DUST} Mystery Dust (40% OFF!)'
         - ''
         - '&7Your Cost: &c{VIP_MYSTERY_DUST} &7Mystery Dust'
@@ -196,7 +196,7 @@ Item-Cost-Discount:
         - ''
         - '&8&mRegular: {MYSTERY_DUST} Mystery Dust!'
         - '&8&mVIP: {VIP_MYSTERY_DUST} Mystery Dust (20% OFF!)'
-        - "&bMVP&7: &a{MVP_MYSTERY_DUST} &7Mystery Dust (&a40% &7OFF!) &e\u25c0"
+        - '&bMVP&7: &a{MVP_MYSTERY_DUST} &7Mystery Dust (&a40% &7OFF!) &e◀'
         - ''
         - '&7Your Cost: &a{MVP_MYSTERY_DUST} &7Mystery Dust'
         - '&eClick to craft!'
@@ -204,7 +204,7 @@ Item-Cost-Discount:
         - ''
         - '&8&mRegular: {MYSTERY_DUST} Mystery Dust!'
         - '&8&mVIP: {VIP_MYSTERY_DUST} Mystery Dust (20% OFF!)'
-        - "&bMVP&7: &a{MVP_MYSTERY_DUST} &7Mystery Dust (&a40% &7OFF!) &e\u25c0"
+        - '&bMVP&7: &a{MVP_MYSTERY_DUST} &7Mystery Dust (&a40% &7OFF!) &e◀'
         - ''
         - '&7Your Cost: &a{MVP_MYSTERY_DUST} &7Mystery Dust'
         - '&cYou need &b{SURPLUS_MYSTERY_DUST} &cmore mystery dust!'
