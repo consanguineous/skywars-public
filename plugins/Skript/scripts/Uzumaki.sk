@@ -1,0 +1,9 @@
+
+on join:
+	set join message to ""
+
+on quit:
+	set quit message to ""
+
+at 18:00:
+	set time to 7:00	

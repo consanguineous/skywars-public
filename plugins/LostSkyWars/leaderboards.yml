@@ -1,0 +1,41 @@
+boards:
+  '3':
+    type: ARMORSTAND
+    stats: WINS
+    ranking: 1
+    location: world; 225.5; 53.0; 1325.5; 271.55316; -0.3001203
+  '1':
+    type: ARMORSTAND
+    stats: WINS
+    ranking: 2
+    location: world; 225.5; 53.0; 1324.5; 271.55316; -0.3001203
+  '2':
+    type: ARMORSTAND
+    stats: WINS
+    ranking: 3
+    location: world; 225.5; 53.0; 1323.5; 271.55316; -0.3001203
+  '4':
+    type: ARMORSTAND
+    stats: WINS
+    ranking: 4
+    location: world; 225.5; 53.0; 1322.5; 271.55316; -0.3001203
+  '5':
+    type: ARMORSTAND
+    stats: KILLS
+    ranking: 1
+    location: world; 260.5; 53.0; 1325.5; 90.24445; -0.47389254
+  '6':
+    type: ARMORSTAND
+    stats: KILLS
+    ranking: 2
+    location: world; 260.5; 53.0; 1324.5; 90.24445; -0.47389254
+  '7':
+    type: ARMORSTAND
+    stats: KILLS
+    ranking: 3
+    location: world; 260.5; 53.0; 1323.5; 90.24445; -0.47389254
+  '8':
+    type: ARMORSTAND
+    stats: KILLS
+    ranking: 4
+    location: world; 260.5; 53.0; 1322.5; 90.24445; -0.47389254
